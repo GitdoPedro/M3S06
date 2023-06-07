@@ -1,5 +1,5 @@
 CREATE TABLE Produto (
-  ID NUMBER,
+  ID NUMBER PRIMARY KEY,,
   Descricao VARCHAR2(50),
   Status NUMBER(1),
   Cadastro DATETIME,
